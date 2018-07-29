@@ -33,6 +33,8 @@ auto detect alarm state and present screen to reset it
 
 Alarm reset button - Resets the alarm and resume normal mode
 
+Detects Air quality and Smoke CO2 concentration with MQ2 sensor installed 
+
 Supports Wifi connectivity - software can be developed to send an email or monitor it remotely.
 
 Buzzer to alert user when thermal runaway occurs
@@ -72,8 +74,11 @@ Full graphic icons
 
 Serial connection with ramps board to stop printer and park head * coming soon 
 
+Smoke/ air Quality detection - with MQ2 Sensor when installed - 
+
 Wifi connectivity ** coming soon 
 
+---------------------------------------------------------------------------------------------------------------
 Files in this folder 
 
 User Manual and Compiled Hex files 
